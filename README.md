@@ -11,6 +11,7 @@
 -	Research Interests & Skills: Information system design, Geodatabase design, project planning and management, building desktop/ web/ mobile GIS applications; LiDAR, 3D GIS, geoprocessing, computational geometry, geospatial big data, cartography, data visualization, and data science.
 -	Qualifications: MSc in Cartography, Remote Sensing and GIS, BSc in Mathematics and Computer Science, BA in English Linguistics and Literature.
 More information about me and my projects can be found on [My Homepage](https://thangqd.github.io/) and [BecaGIS Homepage](https://becagis.vn/?lang=en).
+
 💗💗💗 Nice to meet you all!
 ---
 
