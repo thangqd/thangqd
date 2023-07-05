@@ -35,3 +35,4 @@ More information about me and my projects can be found on [My Homepage](https://
 
 ![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=thangqd&show_icons=true)
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thangqd&langs_count=3&hide=javascript,go,html,css,tex)
+![flight_routes](https://github.com/thangqd/thangqd/assets/1776420/f2b24be0-1e2d-42ef-a62e-2eac991ac9f4)
