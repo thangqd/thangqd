@@ -23,14 +23,6 @@ More information about me and my projects can be found on [My Homepage](https://
 - **GIS Platforms:** [HCMGIS](https://hcmgis.vn/) | [BecaGIS](https://becagis.vn/?lang=en)
 - **GIS Training:** [Scool of Data GIS Curriculum](https://github.com/school-of-data/GIS-curriculum/tree/main/vietnam) | [QGIS Training](https://github.com/thangqd/QGIS-training) 
 
-### Latest Blog Posts
-
-<!-- HASHNODE:START -->
-- [QGIS Server Installation on Windows](https://thangqd.github.io/blog/qgis-server)
-- [Call HCMGIS Library in Standalone PyQGIS Application](https://thangqd.github.io/blog/call-hcmgis-library-standalone-pyqgis)
-- [Call HCMGIS Library in QGIS Python Console](https://thangqd.github.io/blog/call-hcmgis-library-qgis-python-console)
-<!-- HASHNODE:END -->
-
 ---
 ![flight_routes](https://github.com/thangqd/thangqd/assets/1776420/f2b24be0-1e2d-42ef-a62e-2eac991ac9f4)
 ![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=thangqd&show_icons=true)
