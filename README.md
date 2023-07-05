@@ -17,8 +17,8 @@ More information about me and my projects can be found on [My Homepage](https://
 
 ### Projects
 
-- **QGIS (Open Source):** [HCMGIS Plugin for QGIS](https://github.com/thangqd/HCMGIS) | [BecaGIS Plugin for QGIS](https://github.com/thangqd/becagis) | [BecaGIS Resources for Plugin](https://github.com/thangqd/BecaGIS-Resources)
-- **Streamlit QGIS (Open Source):** [BecaGIS Streamlit](https://github.com/thangqd/becagis_streamlit)
+- **QGIS (Open Source):** [HCMGIS Plugin for QGIS](https://github.com/thangqd/HCMGIS) | [BecaGIS Plugin for QGIS](https://becagis.vn/?lang=en) | [BecaGIS Resources for Plugin](https://github.com/thangqd/BecaGIS-Resources)
+- **BecaGIS Streamlit (Open Source):** [BecaGIS Streamlit](https://github.com/thangqd/becagis_streamlit)
 - **GIS Platforms:** [HCMGIS](https://hcmgis.vn/) | [BecaGIS](https://becagis.vn/?lang=en)
 - **GIS Training:** [Scool of Data GIS Curriculum](https://github.com/school-of-data/GIS-curriculum/tree/main/vietnam) | [QGIS Training](https://github.com/thangqd/QGIS-training) 
 
