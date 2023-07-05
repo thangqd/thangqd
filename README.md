@@ -12,7 +12,7 @@
 -	Qualifications: MSc in Cartography, Remote Sensing and GIS, BSc in Mathematics and Computer Science, BA in English Linguistics and Literature.
 More information about me and my projects can be found on [My Homepage](https://thangqd.github.io/) and [BecaGIS Homepage](https://becagis.vn/?lang=en).
 
-💗💗💗 Nice to meet you all!
+###💗💗💗 Nice to meet you all!
 ---
 
 ### Projects
