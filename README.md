@@ -7,7 +7,8 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=thangqd.thangqd)
 
 ### About me
--	20 years’ experience in GIS, an enthusiast and contributor to GeoSpatial Open Source, Open Standards, and Open Data.
+-	20 years’ experience in GIS
+-	An enthusiast and contributor to GeoSpatial Open Source, Open Standards, and Open Data.
 -	Research Interests & Skills: Information system design, Geodatabase design, project planning and management, building desktop/ web/ mobile GIS applications; LiDAR, 3D GIS, geoprocessing, computational geometry, geospatial big data, cartography, data visualization, and data science.
 -	Qualifications: MSc in Cartography, Remote Sensing and GIS, BSc in Mathematics and Computer Science, BA in English Linguistics and Literature.
 More information about me and my projects can be found on [My Homepage](https://thangqd.github.io/) and [BecaGIS Homepage](https://becagis.vn/?lang=en).
@@ -20,6 +21,7 @@ More information about me and my projects can be found on [My Homepage](https://
 - **QGIS (Open Source):** [BecaGIS Plugin for QGIS](https://github.com/thangqd/becagis) | [BecaGIS Resources for QGIS](https://github.com/thangqd/BecaGIS-Resources)
                          | [HCMGIS Plugin for QGIS - Top 10 Plugins on QGIS Repo](https://github.com/thangqd/HCMGIS)
 - **BecaGIS Streamlit (Open Source):** [BecaGIS Streamlit](https://github.com/thangqd/becagis_streamlit)
+- **Geoprocessing Streamlit (Open Source):** [Geoprocessing Streamlit](https://github.com/thangqd/geoprocessing)
 - **GIS Platforms:** [BecaGIS](https://becagis.vn/?lang=en) | [HCMGIS](https://hcmgis.vn/)
 - **GIS Training:** [Scool of Data GIS Curriculum](https://github.com/school-of-data/GIS-curriculum/tree/main/vietnam) | [QGIS Training](https://github.com/thangqd/QGIS-training) 
 
