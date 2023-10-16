@@ -7,7 +7,7 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=thangqd.thangqd)
 
 ### About me
--	20 years’ experience in GIS
+-	20 years’ experience in GIS.
 -	An enthusiast and contributor to GeoSpatial Open Source, Open Standards, and Open Data.
 -	Research Interests & Skills: Information system design, Geodatabase design, project planning and management, building desktop/ web/ mobile GIS applications; LiDAR, 3D GIS, geoprocessing, computational geometry, geospatial big data, cartography, data visualization, and data science.
 -	Qualifications: MSc in Cartography, Remote Sensing and GIS, BSc in Mathematics and Computer Science, BA in English Linguistics and Literature.
