@@ -8,7 +8,7 @@
 
 ### About me
 -	20 years’ experience in GIS.
--	An enthusiast and contributor to GeoSpatial Open Source, Open Standards, and Open Data.
+-	An enthusiast and active contributor to GeoSpatial Open Source, Open Standards, and Open Data Communities.
 -	Research Interests & Skills: Information system design, Geodatabase design, project planning and management, building desktop/ web/ mobile GIS applications; LiDAR, 3D GIS, geoprocessing, computational geometry, geospatial big data, cartography, data visualization, and data science.
 -	Qualifications: MSc in Cartography, Remote Sensing and GIS, BSc in Mathematics and Computer Science, BA in English Linguistics and Literature.
 More information about me and my projects can be found on [My Homepage](https://thangqd.github.io/)
