@@ -22,7 +22,7 @@ More information about me and my projects can be found on [My Homepage](https://
                          | [HCMGIS Plugin for QGIS - Top 10 Plugins on QGIS Repo](https://github.com/thangqd/HCMGIS)
 - **BecaGIS Streamlit:** [BecaGIS Streamlit](https://github.com/thangqd/becagis_streamlit)
 - **Geoprocessing Streamlit:** [Geoprocessing Streamlit](https://github.com/thangqd/geoprocessing)
-- **MBTiles Utilities on PyPI:** [mbtiles_util](https://pypi.org/project/mbtiles-util/)
+- **MBTiles Utilities on PyPI:** [tiles_util](https://pypi.org/project/tiles-util/)
 - **GIS Platforms:** [BecaGIS](https://becagis.vn/?lang=en) | [HCMGIS](https://hcmgis.vn/)
 - **GIS Training:** [Scool of Data GIS Curriculum](https://github.com/school-of-data/GIS-curriculum/tree/main/vietnam) | [QGIS Training](https://github.com/thangqd/QGIS-training) 
 
