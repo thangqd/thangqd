@@ -23,7 +23,7 @@ More information about me and my projects can be found on [My Homepage](https://
 - **BecaGIS Streamlit:** [BecaGIS Streamlit](https://github.com/thangqd/becagis_streamlit)
 - **Geoprocessing Streamlit:** [Geoprocessing Streamlit](https://github.com/thangqd/geoprocessing)
 - **Vector Tiles Utilities:** [vtiles](https://pypi.org/project/vtiles/)
-- **Vgrid:** [vgrid](https://pypi.org/project/vgrid/), [vgrid](https://vgrid.vn)
+- **Vgrid:** [vgrid](https://pypi.org/project/vgrid/), [Vgrid Home](https://vgrid.vn)
 - **Geospatial Data Downloader:** [vdownload](https://pypi.org/project/vdownload/)
 - **Collections of vector tile styles:** [vstyles](https://github.com/thangqd/vstyles)
 - **GIS Platforms:** [BecaGIS](https://becagis.vn/?lang=en) | [HCMGIS](https://hcmgis.vn/)
