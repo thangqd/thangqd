@@ -25,7 +25,7 @@ More information about me and my projects can be found on [My Homepage](https://
 - **Vector Tiles Utilities:** [vtiles](https://pypi.org/project/vtiles/)
 - **Vgrid:** [vgrid](https://pypi.org/project/vgrid/)
 - **Geospatial Data Downloader:** [vdownload](https://pypi.org/project/vdownload/)
-- **Collections of vector tile styles:** [vstyles](https://pypi.org/project/vdownload/](https://github.com/thangqd/vstyles)
+- **Collections of vector tile styles:** [vstyles](https://github.com/thangqd/vstyles)
 - **GIS Platforms:** [BecaGIS](https://becagis.vn/?lang=en) | [HCMGIS](https://hcmgis.vn/)
 - **GIS Trainings:** [Scool of Data GIS Curriculum](https://github.com/school-of-data/GIS-curriculum/tree/main/vietnam) | [QGIS Training](https://github.com/thangqd/QGIS-training) 
 
