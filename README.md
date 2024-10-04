@@ -22,10 +22,12 @@ More information about me and my projects can be found on [My Homepage](https://
                          | [HCMGIS Plugin for QGIS - Top 10 Plugins on QGIS Repo](https://github.com/thangqd/HCMGIS)
 - **BecaGIS Streamlit:** [BecaGIS Streamlit](https://github.com/thangqd/becagis_streamlit)
 - **Geoprocessing Streamlit:** [Geoprocessing Streamlit](https://github.com/thangqd/geoprocessing)
-- **Vector Tiles Utilities on PyPI:** [vtiles](https://pypi.org/project/vtiles/)
-- **Vgrid on PyPI:** [vgrid](https://pypi.org/project/vgrid/)
+- **Vector Tiles Utilities:** [vtiles](https://pypi.org/project/vtiles/)
+- **Vgrid:** [vgrid](https://pypi.org/project/vgrid/)
+- **Geospatial Data Downloader:** [vdownload](https://pypi.org/project/vdownload/)
+- **Collections of vector tile styles:** [vstyles](https://pypi.org/project/vdownload/](https://github.com/thangqd/vstyles)
 - **GIS Platforms:** [BecaGIS](https://becagis.vn/?lang=en) | [HCMGIS](https://hcmgis.vn/)
-- **GIS Training:** [Scool of Data GIS Curriculum](https://github.com/school-of-data/GIS-curriculum/tree/main/vietnam) | [QGIS Training](https://github.com/thangqd/QGIS-training) 
+- **GIS Trainings:** [Scool of Data GIS Curriculum](https://github.com/school-of-data/GIS-curriculum/tree/main/vietnam) | [QGIS Training](https://github.com/thangqd/QGIS-training) 
 
 ---
 ![flight_routes](https://github.com/thangqd/thangqd/assets/1776420/f2b24be0-1e2d-42ef-a62e-2eac991ac9f4)
