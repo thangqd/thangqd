@@ -18,8 +18,8 @@ More information about me and my projects can be found on [My Homepage](https://
 
 ### Projects
 
-- **QGIS Plugin:** [BecaGIS Plugin for QGIS](https://github.com/thangqd/becagis) | [BecaGIS Resources for QGIS](https://github.com/thangqd/BecaGIS-Resources)
-                         | [HCMGIS Plugin for QGIS - Top 06 Plugins on QGIS Repo](https://github.com/thangqd/HCMGIS)
+- **QGIS Plugin:** [BecaGIS Tools](https://github.com/thangqd/becagis) | [Vgrid Tools](https://github.com/thangqd/vgridtools)
+                         | [HCMGIS Plugin - Top 06 Plugins on QGIS Repo](https://github.com/thangqd/HCMGIS)
 - **BecaGIS Streamlit:** [BecaGIS Streamlit](https://github.com/thangqd/becagis_streamlit)
 - **Geoprocessing Streamlit:** [Geoprocessing Streamlit](https://github.com/thangqd/geoprocessing)
 - **Vector Tiles Utilities:** [vtiles](https://pypi.org/project/vtiles/)
