@@ -9,24 +9,23 @@
 ### About me
 -	20 years’ experience in GIS.
 -	An enthusiast and active contributor to GeoSpatial Open Source, Open Standards, and Open Data Communities.
--	Research Interests & Skills: Information system design, Geodatabase design, project planning and management, building desktop/ web/ mobile GIS applications; LiDAR, 3D GIS, geoprocessing, computational geometry, geospatial big data, cartography, data visualization, and data science.
+-	Research Interests & Skills: Digital Earth, DGGS, advanced geoprocessing, computational geometry, geospatial big data, 3D GIS, cartography, data science; Information system design, Geodatabase design, project planning and management, building desktop/ web/ mobile GIS applications.
 -	Qualifications: MSc in Cartography, Remote Sensing and GIS, BSc in Mathematics and Computer Science, BA in English Linguistics and Literature.
-More information about me and my projects can be found on [My Homepage](https://thangqd.github.io/)
+Please visit [My Homepage](https://thangqd.github.io/) for more details.
 
 ### 💗💗💗 Nice to meet you all!
 ---
 
 ### Projects
-
+- **Vgrid:** [Vgrid](https://pypi.org/project/vgrid/) | [VgridJS]([https://vgrid.vn](https://www.npmjs.com/package/vgridjs) | [Vgrid Home](https://vgrid.vn)
 - **QGIS Plugins:** [BecaGIS Tools](https://github.com/thangqd/becagis) | [Vgrid Tools](https://github.com/thangqd/vgridtools)
                          | [HCMGIS Plugin - Top 06 Plugins on QGIS Repo](https://github.com/thangqd/HCMGIS)
+- **Vector Tiles Utilities:** [Vtiles](https://pypi.org/project/vtiles/)
+- **Collections of vector tile styles:** [Vstyles](https://github.com/thangqd/vstyles)
+- **Geospatial Data Downloader:** [Vdownload](https://pypi.org/project/vdownload/)
+- **GIS Platforms:** [BecaGIS](https://becagis.vn/?lang=en) | [HCMGIS](https://hcmgis.vn/)
 - **BecaGIS Streamlit:** [BecaGIS Streamlit](https://github.com/thangqd/becagis_streamlit)
 - **Geoprocessing Streamlit:** [Geoprocessing Streamlit](https://github.com/thangqd/geoprocessing)
-- **Vector Tiles Utilities:** [Vtiles](https://pypi.org/project/vtiles/)
-- **Vgrid:** [Vgrid](https://pypi.org/project/vgrid/), [Vgrid Home](https://vgrid.vn)
-- **Geospatial Data Downloader:** [Vdownload](https://pypi.org/project/vdownload/)
-- **Collections of vector tile styles:** [Vstyles](https://github.com/thangqd/vstyles)
-- **GIS Platforms:** [BecaGIS](https://becagis.vn/?lang=en) | [HCMGIS](https://hcmgis.vn/)
 - **GIS Trainings:** [Scool of Data GIS Curriculum](https://github.com/school-of-data/GIS-curriculum/tree/main/vietnam) | [QGIS Training](https://github.com/thangqd/QGIS-training) 
 
 ---
