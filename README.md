@@ -17,7 +17,7 @@ Please visit [My Homepage](https://thangqd.github.io/projects/) for more details
 ---
 
 ### Projects
-- **Vgrid:** [Vgrid](https://pypi.org/project/vgrid/) | [VgridJS](https://vgrid.vn](https://www.npmjs.com/package/vgridjs) | [Vgrid Home](https://vgrid.vn)
+- **Vgrid:** [Vgrid](https://pypi.org/project/vgrid/) | [VgridJS](https://www.npmjs.com/package/vgridjs) | [Vgrid Home](https://vgrid.vn)
 - **QGIS Plugins:** [BecaGIS Tools](https://github.com/thangqd/becagis) | [Vgrid Tools](https://github.com/thangqd/vgridtools)
                          | [HCMGIS Plugin - Top 06 Plugins on QGIS Repo](https://github.com/thangqd/HCMGIS)
 - **Vector Tiles Utilities:** [Vtiles](https://pypi.org/project/vtiles/)
