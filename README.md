@@ -10,7 +10,7 @@
 -	20 years’ experience in GIS.
 -	An enthusiast and active contributor to GeoSpatial Open Source, Open Standards, and Open Data Communities.
 -	Research Interests & Skills: Digital Earth, DGGS, advanced geoprocessing, computational geometry, geospatial big data, 3D GIS, cartography, data science; Information system design, Geodatabase design, project planning and management, building desktop/ web/ mobile GIS applications.
--	Qualifications: MSc in Cartography, Remote Sensing and GIS, BSc in Mathematics and Computer Science, BA in English Linguistics and Literature.
+-	Qualifications: PhD student in Cartography, Remote Sensing and GIS, BSc in Mathematics and Computer Science, BA in English Linguistics and Literature.
 Please visit [My Homepage](https://thangqd.github.io/projects/) for more details.
 
 ### 💗💗💗 Nice to meet you all!
