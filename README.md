@@ -1,6 +1,5 @@
 ## Thang Quach
 
-[![GitHub Badge](https://img.shields.io/github/followers/thangqd?style=social)](https://github.com/thangqd?tab=followers)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/thangqd)
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://thangqd.github.io/about/)
 [![Donate Badge](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellowgreen.svg)](https://www.buymeacoffee.com/thangqd)
