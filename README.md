@@ -11,7 +11,7 @@
 -	Research Interests & Skills: Digital Earth, DGGS, advanced geoprocessing, computational geometry, geospatial big data, 3D GIS, cartography, data science; Information system design, Geodatabase design, project planning and management, building desktop/ web/ mobile GIS applications.
 -	Qualifications: PhD student in Cartography, Remote Sensing and GIS, BSc in Mathematics and Computer Science, BA in English Linguistics and Literature.
 - [My Homepage](https://thangqd.github.io/projects/).
-- My open-source work is available at https://github.com/vopengeos
+- My open-source work is available at [opengeoshub](https://gishub.vn/) and [opengeoshup@github](https://github.com/opengeoshub)
 
 ### 💗💗💗 Nice to meet you all!
 ---
