@@ -6,9 +6,9 @@
 [![Donate Badge](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellowgreen.svg)](https://www.buymeacoffee.com/thangqd)
 
 ### About me
--	20 years’ experience in GIS.
--	An enthusiast and active contributor to GeoSpatial Open Source, Open Standards, and Open Data Communities.
--	Research Interests & Skills: Digital Earth, DGGS, advanced geoprocessing, computational geometry, geospatial big data, 3D GIS, cartography, data science; Information system design, Geodatabase design, project planning and management, building desktop/ web/ mobile GIS applications.
+-	Over 20 years’ experience in GIS.
+-	An dedicated advocate and active contributor to geospatial open-source software, open standards, and open data.
+-	Research Interests: Digital DGGS, digital earth, GeoAI, advanced geoprocessing & spatial analysis, computational geometry, cartography, data visualization, and data science.
 -	Qualifications: PhD student in Cartography, Remote Sensing and GIS, BSc in Mathematics and Computer Science, BA in English Linguistics and Literature.
 - [My Homepage](https://thangqd.github.io/projects/).
 - My open-source work is available at [opengeoshub](https://gishub.vn/) and [opengeoshup@github](https://github.com/opengeoshub)
