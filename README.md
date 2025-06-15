@@ -17,7 +17,7 @@
 ---
 
 ### Projects
-- **Vgrid DGGS:** [Vgrid Python package](https://github.com/opengeoshub/vgrid) | [vgridjs](https://github.com/opengeoshu/vgridjs) | [vgrid-maplibre](https://github.com/opengeoshu/vgrid-maplibre) | [Vgrid homepage](https://vgrid.vn)
+- **Vgrid DGGS:** [Vgrid Python package](https://github.com/opengeoshub/vgrid) | [vgridjs](https://github.com/opengeoshub/vgridjs) | [vgrid-maplibre](https://github.com/opengeoshub/vgrid-maplibre) | [Vgrid homepage](https://vgrid.vn)
 - **QGIS Plugins:** [Vgrid Plugin for QGIS](https://github.com/opengeoshub/vgridtools) | [HCMGIS Plugin - Top 05 Plugins on QGIS Repo](https://github.com/opengeoshub/HCMGIS) | [BecaGIS Plugin](https://github.com/opengeoshub/becagis)  
 - **Vector Tile Utilities:** [Vtiles](https://github.com/opengeoshub/vtiles) | [Collections of vector tile styles](https://github.com/opengeoshub/vstyles)
 - **Geospatial Data Downloader:** [Vdownload](https://github.com/opengeoshub/vstyles)
