@@ -17,16 +17,13 @@
 ---
 
 ### Projects
-- **Vgrid DGGS:** [Vgrid](https://pypi.org/project/vgrid/) | [VgridJS](https://www.npmjs.com/package/vgridjs) | [Vgrid Home](https://vgrid.vn)
-- **QGIS Plugins:** [BecaGIS Tools](https://github.com/thangqd/becagis) | [Vgrid DGGS Tools](https://github.com/thangqd/vgridtools)
-                         | [HCMGIS Plugin - Top 05 Plugins on QGIS Repo](https://github.com/thangqd/HCMGIS)
-- **Vector Tiles Utilities:** [Vtiles](https://pypi.org/project/vtiles/)
-- **Collections of vector tile styles:** [Vstyles](https://github.com/thangqd/vstyles)
-- **Geospatial Data Downloader:** [Vdownload](https://pypi.org/project/vdownload/)
-- **GIS Platforms:** [BecaGIS](https://becagis.vn/?lang=en) | [HCMGIS](https://hcmgis.vn/)
-- **BecaGIS Streamlit:** [BecaGIS Streamlit](https://github.com/thangqd/becagis_streamlit)
-- **Geoprocessing Streamlit:** [Geoprocessing Streamlit](https://github.com/thangqd/geoprocessing)
-- **GIS Trainings:** [Scool of Data GIS Curriculum](https://github.com/school-of-data/GIS-curriculum/tree/main/vietnam) | [QGIS Training](https://github.com/thangqd/QGIS-training) 
+- **Vgrid DGGS:** [Vgrid Python package](https://github.com/opengeoshub/vgrid) | [vgrid-maplibre](https://github.com/opengeoshu/vgrid-maplibre) | [vgridjs](https://github.com/opengeoshu/vgridjs) | [Vgrid homepage](https://vgrid.vn)
+- **QGIS Plugins:** [Vgrid Plugin for QGIS](https://github.com/opengeoshub/vgridtools) | [HCMGIS Plugin - Top 05 Plugins on QGIS Repo](https://github.com/opengeoshub/HCMGIS) | [BecaGIS Plugin](https://github.com/opengeoshub/becagis)  
+- **Vector Tile Utilities:** [Vtiles](https://github.com/opengeoshub/vtiles) | [Collections of vector tile styles](https://github.com/opengeoshub/vstyles)
+- **Geospatial Data Downloader:** [Vdownload](https://github.com/opengeoshub/vstyles)
+- **GIS Platforms:** [HCMGIS](https://hcmgis.vn/) | [BecaGIS](https://becagis.vn/?lang=en)
+- **Streamlit:** [BecaGIS Streamlit](https://github.com/opengeoshub/becagis_streamlit) | [Geoprocessing Streamlit](https://github.com/opengeoshub/geoprocessing)
+- **GIS Trainings:** [Scool of Data GIS Curriculum](https://github.com/opengeoshub/GIS-curriculum) | [QGIS Training](https://github.com/opengeoshub/QGIS-training) 
 
 ---
 ![flight_routes](https://github.com/thangqd/thangqd/assets/1776420/f2b24be0-1e2d-42ef-a62e-2eac991ac9f4)
