@@ -18,8 +18,8 @@
 
 ### Projects
 - **Vgrid DGGS:** [Vgrid Python package](https://github.com/opengeoshub/vgrid) | [vgridjs](https://github.com/opengeoshub/vgridjs) | [vgrid-maplibre](https://github.com/opengeoshub/vgrid-maplibre) | [Vgrid homepage](https://vgrid.vn)
-- **QGIS Plugins:** [Vgrid Plugin for QGIS](https://github.com/opengeoshub/vgridtools) | [HCMGIS Plugin - Top 05 Plugins on QGIS Repo](https://github.com/opengeoshub/HCMGIS) | [BecaGIS Plugin](https://github.com/opengeoshub/becagis)  
-- **Vector Tile Utilities:** [Vtiles](https://github.com/opengeoshub/vtiles) | [vstyles - A collection of vector tile styles](https://github.com/opengeoshub/vstyles)
+- **QGIS Plugins:** [Vgrid Plugin for QGIS](https://github.com/opengeoshub/vgridtools) | [HCMGIS Plugin - top 05 Plugins on QGIS Repo](https://github.com/opengeoshub/HCMGIS) | [BecaGIS Plugin](https://github.com/opengeoshub/becagis)  
+- **Vector Tile Utilities:** [Vtiles](https://github.com/opengeoshub/vtiles) | [vstyles - collection of vector tile styles](https://github.com/opengeoshub/vstyles)
 - **Geospatial Data Downloader:** [Vdownload](https://github.com/opengeoshub/vstyles)
 - **GIS Platforms:** [HCMGIS](https://hcmgis.vn/) | [BecaGIS](https://becagis.vn/?lang=en)
 - **Streamlit:** [BecaGIS Streamlit](https://github.com/opengeoshub/becagis_streamlit) | [Geoprocessing Streamlit](https://github.com/opengeoshub/geoprocessing)
