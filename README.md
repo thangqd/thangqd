@@ -7,7 +7,7 @@
 
 ### About me
 -	Over 20 years’ experience in GIS.
--	An dedicated advocate and active contributor to geospatial open-source software, open standards, and open data.
+-	An dedicated advocate and active contributor to geospatial open-source software, open standards, open data, open science and reproducible research.
 -	Research Interests: DGGS, digital earth, GeoAI, advanced geoprocessing & spatial analysis, computational geometry, cartography, data visualization, and data science.
 - Founder of [Open Geospatial Hub](https://github.com/opengeoshub) - an initiative dedicated to the development and dissemination of geospatial open-source projects and open data. 
 -	Qualifications: PhD student in Cartography, Remote Sensing and GIS, BSc in Mathematics and Computer Science, BA in English Linguistics and Literature.
