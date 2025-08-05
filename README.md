@@ -24,7 +24,7 @@
 - **GIS Platforms:** [HCMGIS](https://hcmgis.vn/) | [BecaGIS](https://becagis.vn/?lang=en)
 - **Streamlit:** [BecaGIS Streamlit](https://github.com/opengeoshub/becagis_streamlit) | [Geoprocessing Streamlit](https://github.com/opengeoshub/geoprocessing)
 - **GIS Trainings:** [Scool of Data GIS Curriculum](https://github.com/opengeoshub/GIS-curriculum) | [QGIS Training](https://github.com/opengeoshub/QGIS-training) 
-## Contributions
+### Contributions
 - [A5 DGGS JS](https://github.com/felixpalmer/a5)
 - [A5 DGGS Python](https://github.com/felixpalmer/a5-py)
   
