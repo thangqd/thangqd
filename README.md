@@ -27,6 +27,8 @@
 ### Contributions
 - [A5 DGGS JS](https://github.com/felixpalmer/a5)
 - [A5 DGGS Python](https://github.com/felixpalmer/a5-py)
+- [Open Geospatial Hub on OSM](https://wiki.openstreetmap.org/wiki/Organised_Editing/Activities/Open_Geospatial_Hub)
+
   
 ---
 ![flight_routes](https://github.com/thangqd/thangqd/assets/1776420/f2b24be0-1e2d-42ef-a62e-2eac991ac9f4)
