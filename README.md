@@ -9,7 +9,7 @@
 -	Over 20 years’ experience in GIS.
 -	A dedicated advocate and active contributor to geospatial open-source software, open standards, open data, open science and reproducible research.
 -	Research Interests: DGGS, digital earth, GeoAI, advanced geoprocessing & spatial analysis, computational geometry, cartography, data visualization, and data science.
-- Contributor to the [EPSG](https://epsg.org/api/v1/Change/2019.057) registry entries for VN-2000/ TM-3 CRS across all provinces of Vietnam.
+- Contributor to EPSG registry entries for VN-2000 / TM-3 CRS - [Change Request 2019.057](https://epsg.org/api/v1/Change/2019.057)
 - Founder of [Open Geospatial Hub](https://github.com/opengeoshub) - an initiative dedicated to the development and dissemination of geospatial open-source projects, open data, open science, and reproducible research.
 -	Qualifications: PhD student in Cartography, Remote Sensing and GIS, BSc in Mathematics and Computer Science, BA in English Linguistics and Literature.
 - [My Homepage](https://thangqd.github.io/projects/).
