@@ -35,6 +35,4 @@
   
 ---
 ![flight_routes](https://github.com/thangqd/thangqd/assets/1776420/f2b24be0-1e2d-42ef-a62e-2eac991ac9f4)
-![github stats]( https://github-stats-extended.vercel.app/api?username=thangqd&theme=radical)
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=thangqd&langs_count=3)
-
+![github stats]( https://github-stats-extended.vercel.app/api?username=thangqd&theme=calm)
