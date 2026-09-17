@@ -19,7 +19,7 @@
 
 ### Projects
 - **Vgrid DGGS:** [vgrid Python package](https://github.com/opengeoshub/vgrid) | [vgridpandas](https://github.com/opengeoshub/vgridpandas) | [vgrid-maplibre](https://github.com/opengeoshub/vgrid-maplibre) |  [vgrid-maplibre demo](https://gishub.vn/pages/vgridmaplibre) | [antimeridian demo](https://gishub.vn/pages/vgridmaplibre) | [vgrid homepage](https://vgrid.vn)
-- **QGIS Plugins:** [vgrid Plugin for QGIS](https://github.com/opengeoshub/vgridtools) | [HCMGIS Plugin](https://github.com/opengeoshub/HCMGIS) - [top 04 Plugins on QGIS Plugin Repo](https://plugins.qgis.org/plugins/popular/) | [BecaGIS Plugin](https://github.com/opengeoshub/becagis)  
+- **QGIS Plugins:** [vgrid plugin](https://github.com/opengeoshub/vgridtools) | [HCMGIS plugin](https://github.com/opengeoshub/HCMGIS) - [top 04 Plugins on QGIS Plugin Repo](https://plugins.qgis.org/plugins/popular/) | [BecaGIS plugin](https://github.com/opengeoshub/becagis)  
 - **Vector Tile Utilities:** [vtiles](https://github.com/opengeoshub/vtiles) | [vstyles](https://github.com/opengeoshub/vstyles) | [Vietnam basemaps](https://basemap.gishub.vn)
 - **Geospatial Open Data:** [vdownload](https://github.com/opengeoshub/vdownload) | [vopendata](https://github.com/opengeoshub/vopendata)
 - **GIS Platforms:** [HCMGIS](https://hcmgis.vn/) | [BecaGIS](https://becagis.vn/?lang=en)
